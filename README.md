@@ -4,6 +4,7 @@
 This is a project used in Macbook to "relax" your eyes (the title is not true, trust me). It tells a story and change the backlight of your laptop and make you feel like to be personally on the scene.
 
 //BTW the stroy is really funny!
+
 ## Usage:
 
 Just copy this script to /usr/local/bin and run it. 
